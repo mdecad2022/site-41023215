@@ -14,6 +14,12 @@ bs4 = "^0.0.1"
 fabric = "^2.7.1"
 Flask = "^2.2.2"
 gevent = "^21.12.0"
+pygame = "^2.1.2"
+pytest-browser = "^0.2.0"
+waitress = "^2.1.2"
+Flask-Cors = "^3.0.10"
+javascript = "^2015.32.59"
+Pillow = "^9.3.0"
 
 [tool.poetry.dev-dependencies]
 
